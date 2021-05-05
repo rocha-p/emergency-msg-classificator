@@ -4,7 +4,9 @@
 
 ## Description
 This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. 
+
 This project aims to build a Natural Language Processing (NLP) model to categorize messages on a real time basis.
+
 This model is useful, for example, to forward messages to the corresponding organization according to their classification in real time, and thus provide help as quickly and efficiently as possible.
 
 ## Content
